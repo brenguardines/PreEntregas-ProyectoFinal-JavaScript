@@ -1,0 +1,26 @@
+.imgAlfajores{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    margin-top: 1rem;
+}
+
+.nombreAlfajor{
+    font-size: 15px;
+}
+
+.colorBoton{
+    color: white;
+    background-color: #85bb65;
+}
+
+.colorBoton:hover{
+    background-color: green;
+    color: white;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    margin: 0.5rem;
+}
